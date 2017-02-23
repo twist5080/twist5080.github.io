@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Heelo,Some information about me!
+Hello,Some information about me!
 
 ### Another Blog
 
@@ -12,4 +12,6 @@ Heelo,Some information about me!
 
 ### Contact me
 
-[kickitlikedrummer@gmail.com](mailto:kickitlikedrummer@gmail.com)
+Kakao Talk : knifenal
+
+E-mail : [kickitlikedrummer@gmail.com](mailto:kickitlikedrummer@gmail.com)
