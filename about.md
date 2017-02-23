@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Heelo,Some information about me!
 
-### More Information
+### Another Blog
 
-Another Blod: [www.blog.daum.net/ak47tnt](http://blog.daum.net/ak47tnt)
+[www.blog.daum.net/ak47tnt](http://blog.daum.net/ak47tnt)
+
 ### Contact me
 
 [kickitlikedrummer@gmail.com](mailto:kickitlikedrummer@gmail.com)
